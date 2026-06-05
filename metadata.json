@@ -1,0 +1,6 @@
+{
+  "name": "Pendataan PAM Klasis Raja Ampat",
+  "description": "Sistem manajemen data anggota Persekutuan Anggota Muda (PAM) Klasis Raja Ampat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
