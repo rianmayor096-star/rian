@@ -1,0 +1,8 @@
+# Install dependensi
+npm install
+
+# Jalankan build produksi
+npm run build
+
+# Mulai server production
+npm run start
